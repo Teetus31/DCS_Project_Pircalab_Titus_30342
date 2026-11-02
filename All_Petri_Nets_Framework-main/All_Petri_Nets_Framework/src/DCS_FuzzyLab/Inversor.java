@@ -82,7 +82,7 @@ public class Inversor {
 
 			System.out.println("Inversor started \n ------------------------------");
 			pn.Delay = 3000;
-			// pn.Start();
+			//pn.Start();
 
 			PetriNetWindow frame = new PetriNetWindow(false);
 			frame.petriNet = pn;
